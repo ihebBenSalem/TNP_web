@@ -1,0 +1,77 @@
+.navbar-custom {
+    background-color:transparent;
+    color:#f5f5f5;
+    border-radius:0;
+    margin-right: 28px;
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    
+    -webkit-transition: color 500ms ease;
+    -o-transition: color 500ms ease;
+    transition: color 500ms ease;
+    
+}
+
+
+.navbar-custom .navbar-nav > li > a {
+    color:#f5f5f5;
+    background-color: transparent;
+}
+.navbar-custom.navbar-nav>li>a:hover
+{
+    color: #4cae4c;
+}
+
+
+.navbar.navbar-nav > li > a {
+    color:#f5f5f5;
+    background-color: transparent;
+}
+.navbar-nav>li>a:hover
+{
+    color: #4cae4c;
+}
+
+
+body{
+    background-image: url("http://127.0.0.1/img/bg.jpg");
+    background-size: cover;
+
+
+
+}
+
+
+h2 span2 {
+    color:#FFF;
+    font: bold 20px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+  /*  background: rgb(0, 0, 0); /* fallback color */
+    /*background: rgba(0, 0, 0, 0.7);*/
+    padding: 10px;
+    position:relative;
+    top:-420;
+    font-size:70px;;
+    top: 250px;
+}
+
+
+#jum
+{
+    position: relative;
+    top: -50px;
+    padding-top: 50px;
+}
+
+#txt
+
+{
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    font: small-caps;
+    color: #fff;
+    opacity: 0.7;
+
+}
+
